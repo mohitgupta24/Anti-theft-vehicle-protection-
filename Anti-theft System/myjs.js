@@ -17,7 +17,7 @@ const Cars = [];
 Cars.push(new Car("Mohit", "xxx", "NO"));
 Cars.push(new Car("Abhilash", "yyy", "NO"));
 Cars.push(new Car("Rahul", "zzz", "NO"));
-Cars.push(new Car("Shubham", "kkk", "YES"));
+Cars.push(new Car("Shubham", "kkk", "NO"));
 carad.push("car1.png");
 carad.push("car2.png");
 carad.push("car3.png");
